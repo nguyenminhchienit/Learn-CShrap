@@ -1,0 +1,16 @@
+E:\Winform\TimerGUI\bin\Debug\netcoreapp3.1\TimerGUI.exe
+E:\Winform\TimerGUI\bin\Debug\netcoreapp3.1\TimerGUI.deps.json
+E:\Winform\TimerGUI\bin\Debug\netcoreapp3.1\TimerGUI.runtimeconfig.json
+E:\Winform\TimerGUI\bin\Debug\netcoreapp3.1\TimerGUI.runtimeconfig.dev.json
+E:\Winform\TimerGUI\bin\Debug\netcoreapp3.1\TimerGUI.dll
+E:\Winform\TimerGUI\bin\Debug\netcoreapp3.1\TimerGUI.pdb
+E:\Winform\TimerGUI\obj\Debug\netcoreapp3.1\TimerGUI.csproj.AssemblyReference.cache
+E:\Winform\TimerGUI\obj\Debug\netcoreapp3.1\TimerGUI.Form1.resources
+E:\Winform\TimerGUI\obj\Debug\netcoreapp3.1\TimerGUI.csproj.GenerateResource.cache
+E:\Winform\TimerGUI\obj\Debug\netcoreapp3.1\TimerGUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Winform\TimerGUI\obj\Debug\netcoreapp3.1\TimerGUI.AssemblyInfoInputs.cache
+E:\Winform\TimerGUI\obj\Debug\netcoreapp3.1\TimerGUI.AssemblyInfo.cs
+E:\Winform\TimerGUI\obj\Debug\netcoreapp3.1\TimerGUI.csproj.CoreCompileInputs.cache
+E:\Winform\TimerGUI\obj\Debug\netcoreapp3.1\TimerGUI.dll
+E:\Winform\TimerGUI\obj\Debug\netcoreapp3.1\TimerGUI.pdb
+E:\Winform\TimerGUI\obj\Debug\netcoreapp3.1\TimerGUI.genruntimeconfig.cache
