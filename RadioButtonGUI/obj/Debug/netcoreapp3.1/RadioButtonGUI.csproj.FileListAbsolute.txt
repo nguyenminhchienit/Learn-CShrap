@@ -1,0 +1,15 @@
+E:\Winform\RadioButtonGUI\bin\Debug\netcoreapp3.1\RadioButtonGUI.exe
+E:\Winform\RadioButtonGUI\bin\Debug\netcoreapp3.1\RadioButtonGUI.deps.json
+E:\Winform\RadioButtonGUI\bin\Debug\netcoreapp3.1\RadioButtonGUI.runtimeconfig.json
+E:\Winform\RadioButtonGUI\bin\Debug\netcoreapp3.1\RadioButtonGUI.runtimeconfig.dev.json
+E:\Winform\RadioButtonGUI\bin\Debug\netcoreapp3.1\RadioButtonGUI.dll
+E:\Winform\RadioButtonGUI\bin\Debug\netcoreapp3.1\RadioButtonGUI.pdb
+E:\Winform\RadioButtonGUI\obj\Debug\netcoreapp3.1\RadioButtonGUI.Form1.resources
+E:\Winform\RadioButtonGUI\obj\Debug\netcoreapp3.1\RadioButtonGUI.csproj.GenerateResource.cache
+E:\Winform\RadioButtonGUI\obj\Debug\netcoreapp3.1\RadioButtonGUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Winform\RadioButtonGUI\obj\Debug\netcoreapp3.1\RadioButtonGUI.AssemblyInfoInputs.cache
+E:\Winform\RadioButtonGUI\obj\Debug\netcoreapp3.1\RadioButtonGUI.AssemblyInfo.cs
+E:\Winform\RadioButtonGUI\obj\Debug\netcoreapp3.1\RadioButtonGUI.csproj.CoreCompileInputs.cache
+E:\Winform\RadioButtonGUI\obj\Debug\netcoreapp3.1\RadioButtonGUI.dll
+E:\Winform\RadioButtonGUI\obj\Debug\netcoreapp3.1\RadioButtonGUI.pdb
+E:\Winform\RadioButtonGUI\obj\Debug\netcoreapp3.1\RadioButtonGUI.genruntimeconfig.cache

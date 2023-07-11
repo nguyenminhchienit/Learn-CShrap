@@ -1,0 +1,16 @@
+E:\Winform\WindowGUI\bin\Debug\netcoreapp3.1\WindowGUI.exe
+E:\Winform\WindowGUI\bin\Debug\netcoreapp3.1\WindowGUI.deps.json
+E:\Winform\WindowGUI\bin\Debug\netcoreapp3.1\WindowGUI.runtimeconfig.json
+E:\Winform\WindowGUI\bin\Debug\netcoreapp3.1\WindowGUI.runtimeconfig.dev.json
+E:\Winform\WindowGUI\bin\Debug\netcoreapp3.1\WindowGUI.dll
+E:\Winform\WindowGUI\bin\Debug\netcoreapp3.1\WindowGUI.pdb
+E:\Winform\WindowGUI\obj\Debug\netcoreapp3.1\WindowGUI.csproj.AssemblyReference.cache
+E:\Winform\WindowGUI\obj\Debug\netcoreapp3.1\WindowGUI.Form1.resources
+E:\Winform\WindowGUI\obj\Debug\netcoreapp3.1\WindowGUI.csproj.GenerateResource.cache
+E:\Winform\WindowGUI\obj\Debug\netcoreapp3.1\WindowGUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Winform\WindowGUI\obj\Debug\netcoreapp3.1\WindowGUI.AssemblyInfoInputs.cache
+E:\Winform\WindowGUI\obj\Debug\netcoreapp3.1\WindowGUI.AssemblyInfo.cs
+E:\Winform\WindowGUI\obj\Debug\netcoreapp3.1\WindowGUI.csproj.CoreCompileInputs.cache
+E:\Winform\WindowGUI\obj\Debug\netcoreapp3.1\WindowGUI.dll
+E:\Winform\WindowGUI\obj\Debug\netcoreapp3.1\WindowGUI.pdb
+E:\Winform\WindowGUI\obj\Debug\netcoreapp3.1\WindowGUI.genruntimeconfig.cache

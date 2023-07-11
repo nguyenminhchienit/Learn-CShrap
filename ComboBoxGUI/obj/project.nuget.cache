@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p9PNz6Bh/JNWoHsZoHgAGPCs/Dky085kVmmunZKpQr6nj4nyicI366ltgF9mEoogYNtcS+MndcLKGDEUwivr6A==",
+  "success": true,
+  "projectFilePath": "E:\\Winform\\ComboBoxGUI\\ComboBoxGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QaQBcjbeKAChD7Qrk8rC0zNNGSoDnqL4qGZgSf7B3SZA9huxX8nRLRZ0hoU47ViHdJ0W0AouwyFRHbFGjzTaVg==",
+  "success": true,
+  "projectFilePath": "E:\\Winform\\ThreadGUI\\ThreadGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

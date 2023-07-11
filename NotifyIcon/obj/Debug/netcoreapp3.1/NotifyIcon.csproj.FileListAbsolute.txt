@@ -1,0 +1,15 @@
+E:\Winform\NotifyIcon\bin\Debug\netcoreapp3.1\NotifyIcon.exe
+E:\Winform\NotifyIcon\bin\Debug\netcoreapp3.1\NotifyIcon.deps.json
+E:\Winform\NotifyIcon\bin\Debug\netcoreapp3.1\NotifyIcon.runtimeconfig.json
+E:\Winform\NotifyIcon\bin\Debug\netcoreapp3.1\NotifyIcon.runtimeconfig.dev.json
+E:\Winform\NotifyIcon\bin\Debug\netcoreapp3.1\NotifyIcon.dll
+E:\Winform\NotifyIcon\bin\Debug\netcoreapp3.1\NotifyIcon.pdb
+E:\Winform\NotifyIcon\obj\Debug\netcoreapp3.1\NotifyIcon.Form1.resources
+E:\Winform\NotifyIcon\obj\Debug\netcoreapp3.1\NotifyIcon.csproj.GenerateResource.cache
+E:\Winform\NotifyIcon\obj\Debug\netcoreapp3.1\NotifyIcon.GeneratedMSBuildEditorConfig.editorconfig
+E:\Winform\NotifyIcon\obj\Debug\netcoreapp3.1\NotifyIcon.AssemblyInfoInputs.cache
+E:\Winform\NotifyIcon\obj\Debug\netcoreapp3.1\NotifyIcon.AssemblyInfo.cs
+E:\Winform\NotifyIcon\obj\Debug\netcoreapp3.1\NotifyIcon.csproj.CoreCompileInputs.cache
+E:\Winform\NotifyIcon\obj\Debug\netcoreapp3.1\NotifyIcon.dll
+E:\Winform\NotifyIcon\obj\Debug\netcoreapp3.1\NotifyIcon.pdb
+E:\Winform\NotifyIcon\obj\Debug\netcoreapp3.1\NotifyIcon.genruntimeconfig.cache

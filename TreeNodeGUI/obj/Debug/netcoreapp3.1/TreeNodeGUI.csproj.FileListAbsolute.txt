@@ -1,0 +1,16 @@
+E:\Winform\TreeNodeGUI\bin\Debug\netcoreapp3.1\TreeNodeGUI.exe
+E:\Winform\TreeNodeGUI\bin\Debug\netcoreapp3.1\TreeNodeGUI.deps.json
+E:\Winform\TreeNodeGUI\bin\Debug\netcoreapp3.1\TreeNodeGUI.runtimeconfig.json
+E:\Winform\TreeNodeGUI\bin\Debug\netcoreapp3.1\TreeNodeGUI.runtimeconfig.dev.json
+E:\Winform\TreeNodeGUI\bin\Debug\netcoreapp3.1\TreeNodeGUI.dll
+E:\Winform\TreeNodeGUI\bin\Debug\netcoreapp3.1\TreeNodeGUI.pdb
+E:\Winform\TreeNodeGUI\obj\Debug\netcoreapp3.1\TreeNodeGUI.csproj.AssemblyReference.cache
+E:\Winform\TreeNodeGUI\obj\Debug\netcoreapp3.1\TreeNodeGUI.Form1.resources
+E:\Winform\TreeNodeGUI\obj\Debug\netcoreapp3.1\TreeNodeGUI.csproj.GenerateResource.cache
+E:\Winform\TreeNodeGUI\obj\Debug\netcoreapp3.1\TreeNodeGUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Winform\TreeNodeGUI\obj\Debug\netcoreapp3.1\TreeNodeGUI.AssemblyInfoInputs.cache
+E:\Winform\TreeNodeGUI\obj\Debug\netcoreapp3.1\TreeNodeGUI.AssemblyInfo.cs
+E:\Winform\TreeNodeGUI\obj\Debug\netcoreapp3.1\TreeNodeGUI.csproj.CoreCompileInputs.cache
+E:\Winform\TreeNodeGUI\obj\Debug\netcoreapp3.1\TreeNodeGUI.dll
+E:\Winform\TreeNodeGUI\obj\Debug\netcoreapp3.1\TreeNodeGUI.pdb
+E:\Winform\TreeNodeGUI\obj\Debug\netcoreapp3.1\TreeNodeGUI.genruntimeconfig.cache

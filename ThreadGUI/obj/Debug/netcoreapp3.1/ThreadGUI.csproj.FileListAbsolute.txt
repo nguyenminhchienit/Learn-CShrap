@@ -1,0 +1,17 @@
+E:\Winform\ThreadGUI\bin\Debug\netcoreapp3.1\ThreadGUI.exe
+E:\Winform\ThreadGUI\bin\Debug\netcoreapp3.1\ThreadGUI.deps.json
+E:\Winform\ThreadGUI\bin\Debug\netcoreapp3.1\ThreadGUI.runtimeconfig.json
+E:\Winform\ThreadGUI\bin\Debug\netcoreapp3.1\ThreadGUI.runtimeconfig.dev.json
+E:\Winform\ThreadGUI\bin\Debug\netcoreapp3.1\ThreadGUI.dll
+E:\Winform\ThreadGUI\bin\Debug\netcoreapp3.1\ThreadGUI.pdb
+E:\Winform\ThreadGUI\obj\Debug\netcoreapp3.1\ThreadGUI.csproj.AssemblyReference.cache
+E:\Winform\ThreadGUI\obj\Debug\netcoreapp3.1\ThreadGUI.Form1.resources
+E:\Winform\ThreadGUI\obj\Debug\netcoreapp3.1\ThreadGUI.csproj.GenerateResource.cache
+E:\Winform\ThreadGUI\obj\Debug\netcoreapp3.1\ThreadGUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Winform\ThreadGUI\obj\Debug\netcoreapp3.1\ThreadGUI.AssemblyInfoInputs.cache
+E:\Winform\ThreadGUI\obj\Debug\netcoreapp3.1\ThreadGUI.AssemblyInfo.cs
+E:\Winform\ThreadGUI\obj\Debug\netcoreapp3.1\ThreadGUI.csproj.CoreCompileInputs.cache
+E:\Winform\ThreadGUI\obj\Debug\netcoreapp3.1\ThreadGUI.dll
+E:\Winform\ThreadGUI\obj\Debug\netcoreapp3.1\ThreadGUI.pdb
+E:\Winform\ThreadGUI\obj\Debug\netcoreapp3.1\ThreadGUI.genruntimeconfig.cache
+E:\Winform\ThreadGUI\obj\Debug\netcoreapp3.1\ThreadGUI.Properties.Resources.resources

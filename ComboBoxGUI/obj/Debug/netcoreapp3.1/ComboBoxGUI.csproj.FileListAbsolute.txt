@@ -1,0 +1,16 @@
+E:\Winform\ComboBoxGUI\bin\Debug\netcoreapp3.1\ComboBoxGUI.exe
+E:\Winform\ComboBoxGUI\bin\Debug\netcoreapp3.1\ComboBoxGUI.deps.json
+E:\Winform\ComboBoxGUI\bin\Debug\netcoreapp3.1\ComboBoxGUI.runtimeconfig.json
+E:\Winform\ComboBoxGUI\bin\Debug\netcoreapp3.1\ComboBoxGUI.runtimeconfig.dev.json
+E:\Winform\ComboBoxGUI\bin\Debug\netcoreapp3.1\ComboBoxGUI.dll
+E:\Winform\ComboBoxGUI\bin\Debug\netcoreapp3.1\ComboBoxGUI.pdb
+E:\Winform\ComboBoxGUI\obj\Debug\netcoreapp3.1\ComboBoxGUI.csproj.AssemblyReference.cache
+E:\Winform\ComboBoxGUI\obj\Debug\netcoreapp3.1\ComboBoxGUI.Form1.resources
+E:\Winform\ComboBoxGUI\obj\Debug\netcoreapp3.1\ComboBoxGUI.csproj.GenerateResource.cache
+E:\Winform\ComboBoxGUI\obj\Debug\netcoreapp3.1\ComboBoxGUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Winform\ComboBoxGUI\obj\Debug\netcoreapp3.1\ComboBoxGUI.AssemblyInfoInputs.cache
+E:\Winform\ComboBoxGUI\obj\Debug\netcoreapp3.1\ComboBoxGUI.AssemblyInfo.cs
+E:\Winform\ComboBoxGUI\obj\Debug\netcoreapp3.1\ComboBoxGUI.csproj.CoreCompileInputs.cache
+E:\Winform\ComboBoxGUI\obj\Debug\netcoreapp3.1\ComboBoxGUI.dll
+E:\Winform\ComboBoxGUI\obj\Debug\netcoreapp3.1\ComboBoxGUI.pdb
+E:\Winform\ComboBoxGUI\obj\Debug\netcoreapp3.1\ComboBoxGUI.genruntimeconfig.cache

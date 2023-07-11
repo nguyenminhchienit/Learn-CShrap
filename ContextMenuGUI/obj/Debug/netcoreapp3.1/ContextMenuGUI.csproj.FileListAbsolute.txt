@@ -1,0 +1,16 @@
+E:\Winform\ContextMenuGUI\bin\Debug\netcoreapp3.1\ContextMenuGUI.exe
+E:\Winform\ContextMenuGUI\bin\Debug\netcoreapp3.1\ContextMenuGUI.deps.json
+E:\Winform\ContextMenuGUI\bin\Debug\netcoreapp3.1\ContextMenuGUI.runtimeconfig.json
+E:\Winform\ContextMenuGUI\bin\Debug\netcoreapp3.1\ContextMenuGUI.runtimeconfig.dev.json
+E:\Winform\ContextMenuGUI\bin\Debug\netcoreapp3.1\ContextMenuGUI.dll
+E:\Winform\ContextMenuGUI\bin\Debug\netcoreapp3.1\ContextMenuGUI.pdb
+E:\Winform\ContextMenuGUI\obj\Debug\netcoreapp3.1\ContextMenuGUI.csproj.AssemblyReference.cache
+E:\Winform\ContextMenuGUI\obj\Debug\netcoreapp3.1\ContextMenuGUI.Form1.resources
+E:\Winform\ContextMenuGUI\obj\Debug\netcoreapp3.1\ContextMenuGUI.csproj.GenerateResource.cache
+E:\Winform\ContextMenuGUI\obj\Debug\netcoreapp3.1\ContextMenuGUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Winform\ContextMenuGUI\obj\Debug\netcoreapp3.1\ContextMenuGUI.AssemblyInfoInputs.cache
+E:\Winform\ContextMenuGUI\obj\Debug\netcoreapp3.1\ContextMenuGUI.AssemblyInfo.cs
+E:\Winform\ContextMenuGUI\obj\Debug\netcoreapp3.1\ContextMenuGUI.csproj.CoreCompileInputs.cache
+E:\Winform\ContextMenuGUI\obj\Debug\netcoreapp3.1\ContextMenuGUI.dll
+E:\Winform\ContextMenuGUI\obj\Debug\netcoreapp3.1\ContextMenuGUI.pdb
+E:\Winform\ContextMenuGUI\obj\Debug\netcoreapp3.1\ContextMenuGUI.genruntimeconfig.cache

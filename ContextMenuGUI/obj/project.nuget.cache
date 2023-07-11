@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w59RHe26bsH0CnOEefKr5rYbugeMgacX1ketmTXYbW7HJWqRiqnFyW0H9pZiegp57SnRt1rNZNC/+d/1X1K1ig==",
+  "success": true,
+  "projectFilePath": "E:\\Winform\\ContextMenuGUI\\ContextMenuGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

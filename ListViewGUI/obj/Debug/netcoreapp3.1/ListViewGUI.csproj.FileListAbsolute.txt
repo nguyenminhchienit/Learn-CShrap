@@ -1,0 +1,17 @@
+E:\Winform\ListViewGUI\bin\Debug\netcoreapp3.1\ListViewGUI.exe
+E:\Winform\ListViewGUI\bin\Debug\netcoreapp3.1\ListViewGUI.deps.json
+E:\Winform\ListViewGUI\bin\Debug\netcoreapp3.1\ListViewGUI.runtimeconfig.json
+E:\Winform\ListViewGUI\bin\Debug\netcoreapp3.1\ListViewGUI.runtimeconfig.dev.json
+E:\Winform\ListViewGUI\bin\Debug\netcoreapp3.1\ListViewGUI.dll
+E:\Winform\ListViewGUI\bin\Debug\netcoreapp3.1\ListViewGUI.pdb
+E:\Winform\ListViewGUI\obj\Debug\netcoreapp3.1\ListViewGUI.csproj.AssemblyReference.cache
+E:\Winform\ListViewGUI\obj\Debug\netcoreapp3.1\ListViewGUI.Form1.resources
+E:\Winform\ListViewGUI\obj\Debug\netcoreapp3.1\ListViewGUI.csproj.GenerateResource.cache
+E:\Winform\ListViewGUI\obj\Debug\netcoreapp3.1\ListViewGUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Winform\ListViewGUI\obj\Debug\netcoreapp3.1\ListViewGUI.AssemblyInfoInputs.cache
+E:\Winform\ListViewGUI\obj\Debug\netcoreapp3.1\ListViewGUI.AssemblyInfo.cs
+E:\Winform\ListViewGUI\obj\Debug\netcoreapp3.1\ListViewGUI.csproj.CoreCompileInputs.cache
+E:\Winform\ListViewGUI\obj\Debug\netcoreapp3.1\ListViewGUI.dll
+E:\Winform\ListViewGUI\obj\Debug\netcoreapp3.1\ListViewGUI.pdb
+E:\Winform\ListViewGUI\obj\Debug\netcoreapp3.1\ListViewGUI.genruntimeconfig.cache
+E:\Winform\ListViewGUI\obj\Debug\netcoreapp3.1\ListViewGUI.Properties.Resources.resources
