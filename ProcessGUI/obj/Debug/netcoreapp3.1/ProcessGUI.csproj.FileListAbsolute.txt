@@ -1,0 +1,16 @@
+C:\Users\LENOVO\source\repos\ProcessGUI\bin\Debug\netcoreapp3.1\ProcessGUI.exe
+C:\Users\LENOVO\source\repos\ProcessGUI\bin\Debug\netcoreapp3.1\ProcessGUI.deps.json
+C:\Users\LENOVO\source\repos\ProcessGUI\bin\Debug\netcoreapp3.1\ProcessGUI.runtimeconfig.json
+C:\Users\LENOVO\source\repos\ProcessGUI\bin\Debug\netcoreapp3.1\ProcessGUI.runtimeconfig.dev.json
+C:\Users\LENOVO\source\repos\ProcessGUI\bin\Debug\netcoreapp3.1\ProcessGUI.dll
+C:\Users\LENOVO\source\repos\ProcessGUI\bin\Debug\netcoreapp3.1\ProcessGUI.pdb
+C:\Users\LENOVO\source\repos\ProcessGUI\obj\Debug\netcoreapp3.1\ProcessGUI.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\ProcessGUI\obj\Debug\netcoreapp3.1\ProcessGUI.Form1.resources
+C:\Users\LENOVO\source\repos\ProcessGUI\obj\Debug\netcoreapp3.1\ProcessGUI.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\ProcessGUI\obj\Debug\netcoreapp3.1\ProcessGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\ProcessGUI\obj\Debug\netcoreapp3.1\ProcessGUI.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\ProcessGUI\obj\Debug\netcoreapp3.1\ProcessGUI.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\ProcessGUI\obj\Debug\netcoreapp3.1\ProcessGUI.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ProcessGUI\obj\Debug\netcoreapp3.1\ProcessGUI.dll
+C:\Users\LENOVO\source\repos\ProcessGUI\obj\Debug\netcoreapp3.1\ProcessGUI.pdb
+C:\Users\LENOVO\source\repos\ProcessGUI\obj\Debug\netcoreapp3.1\ProcessGUI.genruntimeconfig.cache
