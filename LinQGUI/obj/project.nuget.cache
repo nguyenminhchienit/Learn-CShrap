@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oqRlx60rxlYXCEUWLzSUjldaGB0uwltuZIGV9IWB7sRERBqnsIEqOwaj+T+c3xdwzED4ubFVg9AeEm+rm7IrRA==",
+  "success": true,
+  "projectFilePath": "E:\\Winform\\LinQGUI\\LinQGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

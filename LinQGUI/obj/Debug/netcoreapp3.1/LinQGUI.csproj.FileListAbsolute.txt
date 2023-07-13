@@ -1,0 +1,16 @@
+E:\Winform\LinQGUI\bin\Debug\netcoreapp3.1\LinQGUI.exe
+E:\Winform\LinQGUI\bin\Debug\netcoreapp3.1\LinQGUI.deps.json
+E:\Winform\LinQGUI\bin\Debug\netcoreapp3.1\LinQGUI.runtimeconfig.json
+E:\Winform\LinQGUI\bin\Debug\netcoreapp3.1\LinQGUI.runtimeconfig.dev.json
+E:\Winform\LinQGUI\bin\Debug\netcoreapp3.1\LinQGUI.dll
+E:\Winform\LinQGUI\bin\Debug\netcoreapp3.1\LinQGUI.pdb
+E:\Winform\LinQGUI\obj\Debug\netcoreapp3.1\LinQGUI.csproj.AssemblyReference.cache
+E:\Winform\LinQGUI\obj\Debug\netcoreapp3.1\LinQGUI.Form1.resources
+E:\Winform\LinQGUI\obj\Debug\netcoreapp3.1\LinQGUI.csproj.GenerateResource.cache
+E:\Winform\LinQGUI\obj\Debug\netcoreapp3.1\LinQGUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Winform\LinQGUI\obj\Debug\netcoreapp3.1\LinQGUI.AssemblyInfoInputs.cache
+E:\Winform\LinQGUI\obj\Debug\netcoreapp3.1\LinQGUI.AssemblyInfo.cs
+E:\Winform\LinQGUI\obj\Debug\netcoreapp3.1\LinQGUI.csproj.CoreCompileInputs.cache
+E:\Winform\LinQGUI\obj\Debug\netcoreapp3.1\LinQGUI.dll
+E:\Winform\LinQGUI\obj\Debug\netcoreapp3.1\LinQGUI.pdb
+E:\Winform\LinQGUI\obj\Debug\netcoreapp3.1\LinQGUI.genruntimeconfig.cache
